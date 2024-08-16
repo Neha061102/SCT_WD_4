@@ -8,7 +8,7 @@ Mark Tasks as Completed
 Edit Tasks
 
 <h3>Technologies Used</h3>
-HTML5 & CSS3: For creating the structure and styling of the app.
+HTML5 & CSS3: For creating the structure and styling of the app.<br/>
 JavaScript: For implementing the core functionality, including task management, editing, and deadline settings.
 
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to submit a pull request or open an issue.
